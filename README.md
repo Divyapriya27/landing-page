@@ -30,7 +30,7 @@ This landing page showcases a clean layout with smooth navigation and well-organ
 
 ## 📱 Live Preview
 
-🔗 [Click here to view the live site](https://your-username.github.io/your-repo-name/)
+🔗 Click here to view the live site(https://divyapriya27.github.io/landing-page/)
 
 ## 💾 How to Use
 
